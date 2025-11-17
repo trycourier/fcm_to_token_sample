@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272414484417",
+    "project_id": "fcm-to-token",
+    "storage_bucket": "fcm-to-token.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272414484417:android:ce856a6e417fefa77b7140",
+        "android_client_info": {
+          "package_name": "com.example.fcm_to_token"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNB0tK6r9_R1yzzmFBSt2Z-rnSMD3zBmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
